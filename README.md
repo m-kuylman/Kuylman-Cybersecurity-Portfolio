@@ -18,3 +18,17 @@
 |     2|           |               |
 |     3|           |               | 
 
+### Tools
+
+Several tools that I used:
+
+- Python
+- Linux OS
+- SQL
+- Tcpdump
+- Wireshark
+- Chronicle
+- Splunk
+- Suricata
+- Markdown Language
+- Google Workspace (Drive, Docs, Sheets, Slides)
